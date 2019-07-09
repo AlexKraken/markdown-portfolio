@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of dinosaur in polo shirt and khakis](https://pbs.twimg.com/media/CYfspK8UwAA1ctM.jpg)
