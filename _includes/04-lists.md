@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Programming
+  - Creative coding
+  - JavaScript
+  - Python
+- Printmaking
+  - Screen printing
+  - 3D-printing
