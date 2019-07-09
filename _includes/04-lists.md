@@ -1,0 +1,7 @@
+- Programming
+  - Creative coding
+  - JavaScript
+  - Python
+- Printmaking
+  - Screen printing
+  - 3D-printing
